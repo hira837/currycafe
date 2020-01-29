@@ -1,0 +1,13 @@
+@charset "utf-8";
+#content {
+  display: flex;
+  width: 500px;
+  margin: 0 auto;
+}
+#left {
+  width: 50%;
+  background: 
+}
+#right {
+  width: 50%;
+}
